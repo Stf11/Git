@@ -1,1 +1,8 @@
 * {margin: 0;}
+h2{
+    color: red;
+    font-size: 60px;
+}
+p{
+    padding: 15px;
+}
